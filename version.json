@@ -1,8 +1,8 @@
 {
-  "version": "5.0.0",
+  "version": "6.0.0",
   "downloadUrl": "https://github.com/Pedro21062014/AutoMec-Pro/releases/download/v5.0.0/AutoMec-Pro-v5.0.apk",
   "changelog": "Novidades: Sistema de atualização automática via GitHub, melhorias de performance e estabilidade",
-  "minVersion": "5.0.0",
-  "forceUpdate": false,
+  "minVersion": "6.0.0",
+  "forceUpdate": true,
   "releaseDate": "2025-05-11"
 }
